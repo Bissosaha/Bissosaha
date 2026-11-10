@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi, I'm Bishwajit
+
+3rd-year CSE student at AIUB, learning DevOps and cloud by running real systems.
+
+- Linux, Docker, Asterisk/FreePBX, Python (Flask, aiogram), MariaDB
+- Featured project: [pbx-number-router](https://github.com/Bissosaha/pbx-number-router)
+- Looking for internships and entry-level DevOps / cloud roles (remote welcome)
+- Contact: sahabishwajit18@gmail.com | [LinkedIn](https://www.linkedin.com/in/bishwajitsahajoy/)## Hi there 👋
 
 <!--
 **Bissosaha/Bissosaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
